@@ -3,4 +3,4 @@ Different MATLAB assignments
 
 ### Daily Assignment Files 
 
-- Day 1: 
+- Day 1: Conditional Statements and For Loop
