@@ -3,5 +3,5 @@ Different MATLAB assignments
 
 ### Daily Assignment Files 
 
-- Day 1: Conditional Statements and For Loop
-- Day 2: Matrix Operations and User Defined Functions
+- Day 1: Conditional Statements, For Loop, and Matrix Operations
+- Day 2: User-Defined Functions, Logical Indexing, and While Loop
