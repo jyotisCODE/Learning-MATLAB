@@ -5,7 +5,7 @@ Different MATLAB assignments
 
 - Day 1:
   1. Conditional Statement
-  2. For Loop
+  2. For Loop 
   3. Matrix Operations
 
 - Day 2:
