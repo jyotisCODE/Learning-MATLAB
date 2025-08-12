@@ -32,3 +32,8 @@ Different MATLAB assignments
   1. Energy of a Signal
   2. Mean, Median, Mode
   3. Generate Matrix of Random Numbers
+ 
+- Day 7:
+  1. Convolution of Two Signals
+  2. Discrete Time Signal
+  3. Low Pass Filter Design 
